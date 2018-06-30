@@ -26,7 +26,7 @@ const links = [{
   blankTarget: true,
 }];
 
-const copyright = <div>Copyright <Icon type="copyright" /> 2017 Ant Financial Experience Technology Division.</div>;
+const copyright = <div>Copyright <Icon type="copyright" /> 2018 Softtek</div>;
 
 ReactDOM.render(
   <div style={{ background: '#f5f5f5', overflow: 'hidden' }}>
